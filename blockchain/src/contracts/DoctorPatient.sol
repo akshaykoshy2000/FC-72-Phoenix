@@ -1,6 +1,6 @@
 pragma solidity ^0.6.6;
 
-contract Doctor-Patient {
+contract DoctorPatient {
 
     struct patientData {
         address id;
